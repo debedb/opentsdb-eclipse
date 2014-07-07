@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="net/opentsdb/tsd/client/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/guava/guava-17.0.jar"/>
+	<classpathentry kind="lib" path="lib/gwt/gwt-dev-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/gwt/gwt-user-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/hbase/asynchbase-1.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/jackson/jackson-annotations-2.1.5.jar"/>
+	<classpathentry kind="lib" path="lib/jackson/jackson-core-2.1.5.jar"/>
+	<classpathentry kind="lib" path="lib/jackson/jackson-databind-2.1.5.jar"/>
+	<classpathentry kind="lib" path="lib/javassist/javassist-3.17.1-GA.jar"/>
+	<classpathentry kind="lib" path="lib/junit/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="lib/logback/logback-classic-1.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/logback/logback-core-1.0.9.jar"/>
+	<classpathentry kind="lib" path="lib/mockito/mockito-core-1.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/netty/netty-3.9.1.Final.jar"/>
+	<classpathentry kind="lib" path="lib/objenesis/objenesis-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/powermock/powermock-mockito-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j/log4j-over-slf4j-1.7.7.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="lib/suasync/suasync-1.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/validation-api/validation-api-1.0.0.GA-sources.jar"/>
+	<classpathentry kind="lib" path="lib/validation-api/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="lib/zookeeper/zookeeper-3.3.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
