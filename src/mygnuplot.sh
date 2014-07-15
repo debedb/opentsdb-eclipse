@@ -1,0 +1,1 @@
+/Users/grisha/g/git/opentsdb/src/mygnuplot.sh
